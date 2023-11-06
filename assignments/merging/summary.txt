@@ -2,5 +2,5 @@ In Git, merging is the process of combining changes from one branch into another
 It allows us to integrate the work done on a feature branch, bug fix branch, or any other branch back into the main branch.
 This is a fundamental operation in Git that helps maintain a single, coherent codebase while allowing multiple developers to work on different features or fixes independently.
 
-Git function related to merging:
+Git command related to merging:
 - git merge
