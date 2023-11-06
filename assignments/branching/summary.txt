@@ -1,3 +1,9 @@
 Git branching is a fundamental concept in the version control system Git. 
 It allows multiple developers to work on a project simultaneously and independently without interfering with each other's work. 
 A branch in Git is essentially a separate line of development that stems from a common starting point.
+
+Git command related to branching:
+- git branch -> list all branch
+- git branch branch_name -> create a new branch named branch_name
+- git checkout branch_name -> switch to a existing branch branch_name
+- git checkout -b branch_name -> create a new branch named branch_name and switch to this branch
