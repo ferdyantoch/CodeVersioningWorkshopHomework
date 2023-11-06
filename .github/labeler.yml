@@ -1,0 +1,5 @@
+assignments: assignments/**
+github: .github/**
+
+text: ['*.txt']
+python: ['*.py']
